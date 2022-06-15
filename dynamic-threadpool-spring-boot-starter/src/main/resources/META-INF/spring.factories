@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.horse.yun.common.config.CommonConfiguration, \
+  com.horse.yun.starter.config.OkHttpClientConfig,\
+  com.horse.yun.starter.config.DynamicThreadPoolAutoConfiguration
