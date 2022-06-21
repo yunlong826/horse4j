@@ -17,3 +17,6 @@
 如下为项目中监听机制的大概原理，读者可以根据源码进一步理解该流程。
 ![1655368721514.png](https://cdn.nlark.com/yuque/0/2022/png/26709179/1655368742777-c56079fc-61fc-4587-a874-a3aecf0fd898.png#clientId=u5665175d-c309-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=534&id=u7dc988bd&margin=%5Bobject%20Object%5D&name=1655368721514.png&originHeight=667&originWidth=1023&originalType=binary&ratio=1&rotation=0&showTitle=false&size=128086&status=done&style=none&taskId=uc4643045-27a7-4021-92e4-be8bf0d1aac&title=&width=818.4)
 
+# 4. 日志模块参考
+https://blog.csdn.net/universsky2015/article/details/115370418
+https://github.com/mouzt/mzt-biz-log
